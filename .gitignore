@@ -1,0 +1,15 @@
+# Credentials and local configuration
+ID ADMIN.txt
+fix_admin.php
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
